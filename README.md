@@ -6,10 +6,10 @@ A straightforward Todo List application that helps users stay organized by addin
 
 # Key Features:
 
-Add new tasks to the list.
+* Add new tasks to the list.
 
-Edit or remove existing tasks.
+* Edit or remove existing tasks.
 
-Simple and clean user interface.
+* Simple and clean user interface.
 
-Built using React.js, HTML, CSS, and JavaScript.
+* Built using React.js, HTML, CSS, and JavaScript.
